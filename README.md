@@ -1,4 +1,3 @@
-### Hi, I'm Davi &nbsp; 🤖
 
 The profile picture is a [prime number representation](https://github.com/TotalTechGeek/pictoprime) of my photo.<br>
 
